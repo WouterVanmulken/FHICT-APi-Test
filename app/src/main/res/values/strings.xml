@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">OauthTesting</string>
+    <string name="app_name">FHICT API testing</string>
+    <string name="course_list">https://api.fhict.nl/Canvas/Courses/me</string>
+    <string name="assignments_by_course_id">https://api.fhict.nl/Canvas/Course/%1$s/assignments</string>
+    <string name="steps">Steps</string>
+    <string name="sleep">Sleep</string>
 </resources>
